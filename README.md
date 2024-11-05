@@ -1,5 +1,5 @@
 # ¡Hola!👋🏼
-<br> Soy una desarrolladora full stack apasionada por crear aplicaciones web modernas y funcionales. Trabajo principalmente con HTML, CSS, JavaScript, React, y Python, y tengo experiencia construyendo APIs REST. Me gusta trabajar tanto en el front-end como en el back-end, buscando siempre mejorar la experiencia del usuario y optimizar el rendimiento de las aplicaciones.<br><br>Mi motivación principal es el aprendizaje continuo. Siempre busco nuevos retos que me permitan expandir mis conocimientos y mejorar como desarrolladora. Me impulsa el deseo de superarme constantemente y alcanzar nuevos niveles de habilidad en lo que hago.<br><br>Soy una firme creyente en el trabajo en equipo, ya que pienso que es fundamental compartir conocimientos y colaborar para crear soluciones de calidad. Si bien mis proyectos son una oportunidad para aprender, también valoro el trabajo en conjunto y el intercambio de ideas con otras personas.<br><br>Estoy siempre en la búsqueda de nuevos proyectos y oportunidades para seguir creciendo en el mundo del desarrollo web. Si tienes alguna idea o proyecto en mente, ¡no dudes en contactarme!
+<br> Soy una desarrolladora full stack apasionada por crear aplicaciones web modernas y funcionales. Trabajo principalmente con HTML, CSS, JavaScript, React, y Python, y tengo experiencia construyendo APIs REST. Me gusta trabajar tanto en el front-end como en el back-end, buscando siempre mejorar la experiencia del usuario y optimizar el rendimiento de las aplicaciones.<br><br>Mi motivación principal es el aprendizaje continuo. Siempre busco nuevos retos que me permitan expandir mis conocimientos y mejorar como desarrolladora. Me impulsa el deseo de superarme constantemente y alcanzar nuevos niveles de habilidad en lo que hago.<br><br>Soy una firme creyente en el trabajo en equipo, ya que pienso que es fundamental compartir conocimientos y colaborar para crear soluciones de calidad. Si bien mis proyectos son una oportunidad para aprender, también valoro el trabajo en conjunto y el intercambio de ideas con otras personas.<br><br>Estoy siempre en la búsqueda de nuevos proyectos y oportunidades para seguir creciendo en el mundo del desarrollo web. 
 
 
 ## 🌐 Contacto:
@@ -12,10 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adrianaeif&theme=dark&hide_border=false)<br/>
 
 
-### 🔝 
-![](https://github-contributor-stats.vercel.app/api?username=Adrianaeif&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Adrianaeif&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
